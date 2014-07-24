@@ -7,4 +7,4 @@ Data for Australian Government Taxation Determination 2014/19.
 
 Includes SQL for structure and data.
 
-NB: This doesn't include any accomodation information.
+NB: This doesn't include any accommodation information.
