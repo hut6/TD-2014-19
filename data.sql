@@ -6,7 +6,6 @@
 # http://code.google.com/p/sequel-pro/
 #
 # Host: 127.0.0.1 (MySQL 5.1.63-cll)
-# Database: securecr_prod
 # Generation Time: 2014-07-23 07:27:14 +0000
 # ************************************************************
 
